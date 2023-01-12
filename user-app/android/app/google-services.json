@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "216134536345",
+    "project_id": "foodie3-2cbfd",
+    "storage_bucket": "foodie3-2cbfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216134536345:android:3428ad503740ce8fe43c08",
+        "android_client_info": {
+          "package_name": "com.example.foodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216134536345-6en8bpqie97ld99102cmvq3gmm78356u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5vcxeEcZkDCKmXDlQqAtKjwPfHu8DoAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216134536345-6en8bpqie97ld99102cmvq3gmm78356u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "216134536345-ugt2mcpv2fc56r05i4cahb32e1qud21f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodie3"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216134536345:android:6e592d8a3e33a7c2e43c08",
+        "android_client_info": {
+          "package_name": "com.example.foodie_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216134536345-6en8bpqie97ld99102cmvq3gmm78356u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5vcxeEcZkDCKmXDlQqAtKjwPfHu8DoAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216134536345-6en8bpqie97ld99102cmvq3gmm78356u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "216134536345-ugt2mcpv2fc56r05i4cahb32e1qud21f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodie3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
